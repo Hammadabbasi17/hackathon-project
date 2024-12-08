@@ -14,7 +14,7 @@ import React from 'react'
 const About = () => {
   return (
     <div>
-            <div className='w-full h-auto flex justify-center items-center'>
+            <div className='w-full h-auto flex justify-center items-center mt-[84px]'>
                 <div className='w-[95%] lg:w-[80%] lg:h-[850px] h-auto flex flex-col md:flex-row justify-around items-center gap-7'>
 
                     <div className=' w-auto lg:  flex  flex-col justify-between '>
