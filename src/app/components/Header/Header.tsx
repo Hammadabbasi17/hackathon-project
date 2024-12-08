@@ -6,7 +6,7 @@ import { chdir } from 'process'
 const Header = () => {
     return (
         <div>
-            <div className='w-full h-auto flex justify-center items-center'>
+            <div className='w-full h-auto flex justify-center items-center mt-[84px]'>
                 <div className='w-[95%] lg:w-[80%] h-[850px] flex flex-col md:flex-row justify-around items-center bg-lightwhite'>
 
                     <div className=' w-auto lg:w-[557px]  flex  flex-col justify-between '>
