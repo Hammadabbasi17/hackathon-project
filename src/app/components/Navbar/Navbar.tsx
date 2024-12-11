@@ -96,7 +96,7 @@ const Navbar = () => {
             <div className="w-full flex justify-center items-center">
 
 
-                <div className=" w-full md:w-[80%] h-[74px]  justify-between items-center  flex">
+                <div className=" w-full md:w-[80%] h-[74px]  justify-between items-center  flex mt-[84px]">
 
 
                     <ul className=" flex-col md:flex-row justify-center items-center gap-[32px] font-poppin hidden lg:flex">
