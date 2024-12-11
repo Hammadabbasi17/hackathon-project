@@ -9,9 +9,9 @@ const Shop = () => {
     return (
         <div>
             <div className='w-full h-auto flex justify-center items-center mt-[84px]'>
-                <div className='w-[95%] lg:w-[80%] h-[850px] flex flex-col-reverse md:flex-row-reverse justify-around items-center '>
+                <div className='w-[95%] lg:w-[80%] h-[850px] flex flex-col-reverse md:flex-row-reverse justify-around items-center gap-7'>
 
-                    <div className=' w-auto lg:w-[541px] lg:h-[500px]  flex  flex-col justify-between gap-10'>
+                    <div className=' w-auto h-auto lg:h-[500px]  flex  flex-col justify-between gap-10'>
                         <div>
                             <h1 className='text-left text-[32px] font-[700] sm:text-[60px]'>Library Stool Chair</h1>
 
