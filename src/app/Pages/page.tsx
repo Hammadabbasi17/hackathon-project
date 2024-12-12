@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
                <div className="mt-[84px]>
-                   This is a pages
+                  <p>This is a pages</p> 
                </div>
     </div>
   )
